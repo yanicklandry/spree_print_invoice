@@ -1,0 +1,14 @@
+fr:
+  customer_invoice: Facture du client
+  footer_left: " "
+  footer_left2: " "
+
+  footer_right: " "
+  footer_right2: " "
+  
+  print_note: Ceci n'est pas une facture originale (NE PAS ENVOYER AU CLIENT)
+  
+  invoice_print: Imprimer facture
+  packaging_slip_print: Imprimer bordereau
+  packaging_slip: Bordereau d'expédition
+  
